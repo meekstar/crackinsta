@@ -144,9 +144,9 @@ def print_cow():
     print(" ___________ ")
     print(" \033[07m  cupp.py! \033[27m                # Common")
     print("      \                     # User")
-    print("       \   \033[1;31m,__,\033[1;m             # Passwords")
-    print("        \  \033[1;31m(\033[1;moo\033[1;31m)____\033[1;m         # Profiler")
-    print("           \033[1;31m(__)    )\ \033[1;m  ")
+    print("       \   \333[1;31m,__,\033[1;m             # Passwords")
+    print("        \  \333[1;31m(\033[1;moo\033[1;31m)____\033[1;m         # Profiler")
+    print("           \333[1;31m(__)    )\ \033[1;m  ")
     print(
         "           \033[1;31m   ||--|| \033[1;m\033[05m*\033[25m\033[1;m      [ Muris Kurgas | j0rgan@remote-exploit.org ]"
     )
